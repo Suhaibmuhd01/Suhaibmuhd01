@@ -24,7 +24,7 @@ Here are a few of my favorite projects:
 - A front-end project completed as part of my internship at Cognifyz Technologies. This involved advanced CSS techniques, responsiveness, and using Tailwind CSS.
 - Tech Stack: HTML, Tailwind CSS, Sass, javaScript.
 
-### [📁 API Dashboard](https://github.com/yourusername/api-dashboard)
+### [📁 API Dashboard](https://api-dashboard-visualizer.vercel.app/)
 - A dashboard for visualizing API data using charts and tables.
 - **Tech Stack**: HTML, CSS, JavaScript, Chart.js.
 
