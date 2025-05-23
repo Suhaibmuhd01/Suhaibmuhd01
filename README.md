@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** who loves
 
 ## 🚀 About Me
 - 🌱 **Skills**: HTML, CSS, JavaScript, React, Vue, Tailwind CSS, Sass/SCSS, Python.
-- 💻 **Tools & Frameworks**: VS Code, Git/GitHub, Bootstrap, Figma, canva, jquery, Vite .
-- 🎯 **Focus**: Responsive design, accessibility, performance optimization, and user experience.
+- 💻 **Tools & Frameworks**: VS Code, Git/GitHub, Figma, canva, jquery, Vite  .
+- 🎯 **Focus**: Responsive design, accessibility, performance optimization,Web security and user experience.
 - 💡 **Hobbies**: Exploring new technologies, contributing to open source, and blogging about web development and Horse riding.
 
 ---
