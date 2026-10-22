@@ -1,6 +1,6 @@
  <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0f172a,50:1d4ed8,100:06b6d4&text=Suhaib%20Muhammad%20Babangida&fontColor=ffffff&fontSize=34&fontAlignY=40&desc=Full-Stack%20%26%20Mobile%20Developer%20%7C%20Software%20Engineer&descAlignY=60&descSize=16" width="100%" alt="Suhaib's GitHub banner" />
+  <img src="./github-banner.svg" width="100%" alt="Suhaib Muhammad Babangida | Full-Stack and Mobile Developer" />
 
   <h3>Full-Stack & Mobile Developer | Software Engineer</h3>
 
@@ -46,7 +46,8 @@ I care about how software works behind the interface: how data is stored, how pe
 ### Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,expo,typescript,dart" alt="Mobile development technologies" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,dart" alt="React, TypeScript and Dart" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" height="28" />
 </p>
 
 React Native · Expo · Cross-platform applications · Mobile UI/UX · API integration · Responsive layouts
@@ -86,7 +87,8 @@ Git · GitHub · Docker · Linux · Ubuntu · WSL · Postman · Vercel · AWS ·
 ### Design & Engineering Practices
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,canva" alt="Design tools" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" height="28" />
 </p>
 
 Figma · Canva · Responsive design · Accessibility · Component-based architecture · State management · Clean code · Performance optimization · Application security
@@ -182,11 +184,17 @@ Explore more on my [GitHub repositories page](https://github.com/Suhaibmuhd01?ta
 
   <br />
 
-  <img src="https://streak-stats.demolab.com?user=Suhaibmuhd01&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%" />
+  <a href="https://github.com/Suhaibmuhd01?tab=overview&from=2026-01-01&to=2026-12-31">
+    <img src="https://streak-stats.demolab.com/?user=Suhaibmuhd01&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak" width="70%" />
+  </a>
 
   <br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhaibmuhd01&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity" width="100%" />
+  <a href="https://github.com/Suhaibmuhd01?tab=overview">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhaibmuhd01&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
+  </a>
+
+  <p><a href="https://github.com/Suhaibmuhd01?tab=overview">View the official GitHub contribution calendar</a></p>
 
 </div>
 
