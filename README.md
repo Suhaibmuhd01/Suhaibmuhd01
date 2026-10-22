@@ -190,12 +190,6 @@ Explore more on my [GitHub repositories page](https://github.com/Suhaibmuhd01?ta
 
   <br />
 
-  <a href="https://github.com/Suhaibmuhd01?tab=overview">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhaibmuhd01&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
-  </a>
-
-  <p><a href="https://github.com/Suhaibmuhd01?tab=overview">View the official GitHub contribution calendar</a></p>
-
 </div>
 
 ## Let's Connect
