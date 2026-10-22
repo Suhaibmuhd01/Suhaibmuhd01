@@ -115,7 +115,7 @@ A cooperative management system designed around member records, savings, shares,
 
 **Stack:** PHP · MySQL · JavaScript · REST APIs · Authentication and role-based access
 
-[Repository](https://github.com/Suhaibmuhd01/ASUU_MPCS_2026)
+[Repository](https://github.com/Suhaibmuhd01/fud-asuu-cooperative)
 
 ### 3. FUD-Pal
 
@@ -135,7 +135,7 @@ A platform developed for an initiative that needs a clear online presence and ma
 
 **Stack:** React · Tailwind CSS · Supabase
 
-[Repository](https://github.com/Suhaibmuhd01/bright-path-initiative)
+[Repository](https://github.com/Suhaibmuhd01/brightpathinitiative)
 
 ### 5. FarmConnect
 
