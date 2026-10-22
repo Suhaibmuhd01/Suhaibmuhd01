@@ -47,7 +47,7 @@ I care about how software works behind the interface: how data is stored, how pe
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,typescript,dart" alt="React, TypeScript and Dart" />
-  <img src="https://cdn.simpleicons.org/expo/000020" alt="Expo" width="48" height="48" />
+  <img src="./icons/expo.svg" alt="Official Expo logo" width="48" height="48" />
 </p>
 
 React Native · Expo · Cross-platform applications · Mobile UI/UX · API integration · Responsive layouts
@@ -88,7 +88,7 @@ Git · GitHub · Docker · Linux · Ubuntu · WSL · Postman · Vercel · AWS ·
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" width="48" height="48" />
+  <img src="./icons/canva.svg" alt="Official Canva logo" width="48" height="48" />
 </p>
 
 Figma · Canva · Responsive design · Accessibility · Component-based architecture · State management · Clean code · Performance optimization · Application security
